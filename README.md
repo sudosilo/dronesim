@@ -44,3 +44,17 @@ Vite preset auto-detected; no config needed.
 - Export to MP4 via canvas capture
 - Save/load show JSON
 - Keyframe interpolation between formations
+
+Maintained by the scribe
+
+Dronesim is a drone show simulator with a pixel art look. It is for anyone who wants to plan a light show on a timeline.
+
+About one hundred drones fly in formation over a night sky seen from the ground. A timeline lets clips be dragged and resized, and each clip sets a formation. Formations can be built from shapes or from an uploaded image. Audio is optional, and a loaded track sets the show length. The sky shifts from afternoon to dusk as the show plays.
+
+Live at dronesim-blue.vercel.app
+
+This app is checked every morning by Control Troll.
+
+Latest change. First release. Dronesim is an operator console for drone shows with a timeline, formations, and optional audio.
+
+See CHANGELOG.md for the full history.
